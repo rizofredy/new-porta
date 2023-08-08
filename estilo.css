@@ -320,7 +320,7 @@ html{
 }
 @keyframes comunicacion {
     0%{width: 0%;}
-    100%{width: 85%;}
+    100%{width: 80%;}
 }
 
 .skills .skill .trabajo{
@@ -329,7 +329,7 @@ html{
 }
 @keyframes trabajo {
     0%{width: 0%;}
-    100%{width: 80%;}
+    100%{width: 90%;}
 }
 
 .skills .skill .creatividad{
@@ -337,15 +337,6 @@ html{
     animation: 2s creatividad forwards;
 }
 @keyframes creatividad {
-    0%{width: 0%;}
-    100%{width: 90%;}
-}
-
-.skills .skill .dedicacion{
-    width: 0%;
-    animation: 2s dedicacion forwards;
-}
-@keyframes dedicacion {
     0%{width: 0%;}
     100%{width: 75%;}
 }
